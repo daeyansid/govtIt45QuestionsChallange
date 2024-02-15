@@ -12,6 +12,9 @@
 // in your list.
 
 
+
+// code:
+
 let guestList: string[] = ['Amaan','Ahmed','Ali','Owais'];
 
 console.log("Guest List 1:");
